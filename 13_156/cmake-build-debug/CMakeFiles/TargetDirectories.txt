@@ -1,0 +1,3 @@
+/home/haze888/Desktop/13_156/cmake-build-debug/CMakeFiles/Challenge.dir
+/home/haze888/Desktop/13_156/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/haze888/Desktop/13_156/cmake-build-debug/CMakeFiles/rebuild_cache.dir
